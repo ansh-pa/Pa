@@ -1,0 +1,443 @@
+[{
+  "_id": {
+    "$oid": "65f41fb9b5e2310f6b200b40"
+  },
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.211495,
+          53.62714
+        ]
+      },
+      "properties": {
+        "name": "Brown Cow",
+        "area": "Rochdale",
+        "pub_count": 194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.60203,
+          51.510899
+        ]
+      },
+      "properties": {
+        "name": "Buzz Bingo",
+        "area": "Slough",
+        "pub_count": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.148408,
+          51.795477
+        ]
+      },
+      "properties": {
+        "name": "Amy's",
+        "area": "Tendring",
+        "pub_count": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.10373,
+          50.956069
+        ]
+      },
+      "properties": {
+        "name": "Brickmakers Arms",
+        "area": "Wealden",
+        "pub_count": 155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.797376,
+          50.729809
+        ]
+      },
+      "properties": {
+        "name": "Athelstan Arms",
+        "area": "Bournemouth, Christchurch and Poole",
+        "pub_count": 201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.295759,
+          50.88097
+        ]
+      },
+      "properties": {
+        "name": "The Old Ship Inn",
+        "area": "Fareham",
+        "pub_count": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.114267,
+          52.764655
+        ]
+      },
+      "properties": {
+        "name": "Crown Public House",
+        "area": "Broadland",
+        "pub_count": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.528095,
+          52.409367
+        ]
+      },
+      "properties": {
+        "name": "Arches Venue",
+        "area": "Coventry",
+        "pub_count": 189
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.366426,
+          51.436559
+        ]
+      },
+      "properties": {
+        "name": "Bat & Ball Public House",
+        "area": "Gravesham",
+        "pub_count": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.219407,
+          51.503881
+        ]
+      },
+      "properties": {
+        "name": "Belushi's",
+        "area": "Hammersmith and Fulham",
+        "pub_count": 122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.352173,
+          53.386728
+        ]
+      },
+      "properties": {
+        "name": "Belgian Bar",
+        "area": "Trafford",
+        "pub_count": 145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.718892,
+          52.468696
+        ]
+      },
+      "properties": {
+        "name": "Great Oakley Cricket Club",
+        "area": "Corby",
+        "pub_count": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.862891,
+          53.753622
+        ]
+      },
+      "properties": {
+        "name": "Coach and Horses",
+        "area": "Fylde",
+        "pub_count": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.277624,
+          52.927815
+        ]
+      },
+      "properties": {
+        "name": "Admiral Sir John Borlase Warren",
+        "area": "Broxtowe",
+        "pub_count": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.313037,
+          50.710041
+        ]
+      },
+      "properties": {
+        "name": "Camphill Community Sports Club CIC",
+        "area": "Isle of Wight",
+        "pub_count": 204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.893444,
+          52.47094
+        ]
+      },
+      "properties": {
+        "name": "Aura Lounge Birmingham",
+        "area": "Birmingham",
+        "pub_count": 475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.234159,
+          54.5768
+        ]
+      },
+      "properties": {
+        "name": "Bar Cuda",
+        "area": "Middlesbrough",
+        "pub_count": 111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.208646,
+          51.42256
+        ]
+      },
+      "properties": {
+        "name": "All Bar One",
+        "area": "Merton",
+        "pub_count": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.93446,
+          51.004344
+        ]
+      },
+      "properties": {
+        "name": "Folly Bar",
+        "area": "East Hampshire",
+        "pub_count": 125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.128012,
+          52.369829
+        ]
+      },
+      "properties": {
+        "name": "Diss Cue Club Ltd",
+        "area": "South Norfolk",
+        "pub_count": 106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.58714,
+          53.855203
+        ]
+      },
+      "properties": {
+        "name": "Adel War Memorial Association Ltd",
+        "area": "Leeds",
+        "pub_count": 594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.556453,
+          54.523562
+        ]
+      },
+      "properties": {
+        "name": "Harvey's",
+        "area": "Darlington",
+        "pub_count": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.200977,
+          52.549252
+        ]
+      },
+      "properties": {
+        "name": "Bowling Green",
+        "area": "Fenland",
+        "pub_count": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.114918,
+          51.775706
+        ]
+      },
+      "properties": {
+        "name": "Essex Skipper",
+        "area": "Harlow",
+        "pub_count": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.309394,
+          52.969292
+        ]
+      },
+      "properties": {
+        "name": "Bar Vida",
+        "area": "Erewash",
+        "pub_count": 119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.246148,
+          51.3922
+        ]
+      },
+      "properties": {
+        "name": "Fulham Football Club Foundation",
+        "area": "Kingston upon Thames",
+        "pub_count": 110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.40621,
+          51.688392
+        ]
+      },
+      "properties": {
+        "name": "Abercwmboi Social Club",
+        "area": "Rhondda Cynon Taf",
+        "pub_count": 305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.06807,
+          53.78536
+        ]
+      },
+      "properties": {
+        "name": "Bay Horse Hotel",
+        "area": "Selby",
+        "pub_count": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.007578,
+          51.59173
+        ]
+      },
+      "properties": {
+        "name": "Allt-yr-yn Lawn Tennis Club",
+        "area": "Newport",
+        "pub_count": 113
+      }
+    }
+  ]
+}]
